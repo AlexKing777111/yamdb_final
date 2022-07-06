@@ -61,6 +61,7 @@ jobs:
           username: ${{ secrets.USER }}
           key: ${{ secrets.SSH_KEY }}
           passphrase: ${{ secrets.PASSPHRASE }}
+          port: 80
           script: |
             sudo docker pull ${{ secrets.DOCKER_USERNAME }}/yamdb_workflow:latest
             sudo docker-compose stop
