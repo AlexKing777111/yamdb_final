@@ -2,7 +2,7 @@
 Api v1 для проекта api_YaMDb<br>
 Обернутая в Docker контейнер
 
-![YAmDB](https://github.com/AlexKing777111/yamdb_final/actions/workflows/yamdb_final.yml/badge.svg)
+![YAmDB](https://github.com/AlexKing777111/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
 # Стек технологий
 
