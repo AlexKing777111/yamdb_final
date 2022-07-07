@@ -76,5 +76,5 @@ http://localhost/admin/
 http://localhost/redoc/
 ```
 
-# Разработчик
+# Разработчик проекта
 Александр Королев
