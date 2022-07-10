@@ -20,7 +20,7 @@ PstgreSQL
  ```
 2. Склонировать репозиторий командой:
  ```
- git@github.com:AlexKing777111/infra_sp2.git
+ git@github.com:AlexKing777111/yamdb_final.git
  ```
 3. Перейти в папку с проектом, установить виртуальное окружение и активировать его:
 ```
